@@ -11,7 +11,7 @@
     <groupId>sqa</groupId>
     <artifactId>hanu_minimart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>hanu_minimart</name>
     <description>Demo project for Spring Boot</description>
     <properties>
