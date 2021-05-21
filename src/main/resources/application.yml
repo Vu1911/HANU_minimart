@@ -4,8 +4,8 @@ server:
 spring:
   datasource:
 
-    url: jdbc:mysql://hanuminimart.mysql.database.azure.com:3306/hanu_minimart?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Asia/Ho_Chi_Minh
-    username: hanuminimart@hanuminimart
+    url: jdbc:mysql://hanuminimart4c.mysql.database.azure.com:3306/hanu_minimart?createDatabaseIfNotExist=true&autoReconnect=true&allowPublicKeyRetrieval=true&useSSL=false&useLegacyDatetimeCode=false&serverTimezone=Asia/Ho_Chi_Minh
+    username: hanuminimart@hanuminimart4c
     password: hanu4C18
 
 
